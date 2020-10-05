@@ -19,14 +19,7 @@ const changes = (event) => {
             props.modifyTeam(team);
             setTeam({name: "" , email : "" , role: ""});
         }
-//still not complete next 4 lines
-/*        const removeMember = (event, index) => {
-            event.preventDefault();
-            const originalTeam = [...team];
-            originalTeam.splice(index, 1);
-            setTeam(originalTeam);
-              };
-            */
+
 
     return (
       <form onSubmit= {addMember}>

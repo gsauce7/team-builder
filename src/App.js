@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Forms from './components/Form';
+import Form from './components/Form';
 import Team from './components/Team';
 import Data from './components/Data.js';
 
@@ -34,7 +34,7 @@ function App() {
 
         <div className="Forms">
         <h2> Want to join our team?</h2>
-        <Forms modifyTeam={ourTeam} />
+        <Form modifyTeam={ourTeam} />
         </div>
 
     </div>
