@@ -10,6 +10,12 @@ In this project you'll build an app that will keep track of memebers of a team. 
 
 ### Task 1: Project Set Up
 
+[x]NOTE: I spent most of my time hacking the guided project to make it work with this too: [x]
+
+[x] 
+
+https://codesandbox.io/s/our-team-010pc?file=/src/index.js
+
 - [x] Create a forked copy of this project.
 - [x] Add your team lead as collaborator on Github.
 - [x] Clone your OWN version of the repository in your terminal
