@@ -15,7 +15,8 @@ function App() {
 
         name: member.name,
         email: member.email,
-        role: member.role
+        role: member.role,
+        favFood: member.favFood
       }
 
       setTeamMembers([...teamMembers,newMember])}

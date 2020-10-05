@@ -18,6 +18,8 @@ const Team = props => {
 
                         <li> Email: {person.email}</li>
 
+                        <li> Favorite Food: {person.favFood}</li>
+
                     </ul>
 
                 </div>
